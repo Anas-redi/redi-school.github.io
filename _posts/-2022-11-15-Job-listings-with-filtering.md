@@ -3,7 +3,7 @@ layout: post
 title: Job listings with filtering
 subtitle: Filter out jobs based on selected categories
 categories: Front-End
-tags: [html, css, js, front-end, application, hard]
+tags: [html, css, js, front-end]
 ---
 
 
@@ -13,51 +13,48 @@ Now that you've got a bit more comfortable with JavaScript, let's practice some 
 
 ## 2. Project Brief 
 
-You are implementing and practicing the concepts that you've been learning during the semester including: routing, local & global state management, hooks, lifecycles & styling.
+Your challenge is to build out this landing page and get it looking as close to the design as possible.
 
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go
+There are two options to choose from for how to approach it:
 
-![image](https://user-images.githubusercontent.com/51905839/199746245-229c01e3-1cc7-46a8-b36f-d18223f4cf3d.png)
+Option 1: Filter job listings based on the categories using the HTML data- attribute. In this option, you'd use the hardcoded content that already exists in the index.html file.
+Option 2: Use the local data.json file to pull the data and then dynamically add the content. This would be perfect if you're looking to practice a JS library/framework like React, Vue, or Svelte.
 
-
+![image](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto:good,w_900/Challenges/thcmrk07xdvnzf8qtay3.jpg)
 
 ## 3. Learning Objective
 
-- [x] Routing
-- [x] Local and Global State Management
-- [x] Hooks
-- [x] Lifecycles
-- [x] Styling
+You'll learn how to use JavaScript to filter items in the DOM. This is a key skill when building client-side applications, so this challenge will be great practice!
 
 
 ## 4. Minimum Acceptance Criteria
 
-- [ ] Users are able to view the list of all restaurants that are returned from the API 
-- [ ] Users are able to check restaurants with specific categories/tags
-- [ ] Users are able to use filters(service type, cuisine, dietary cuisine)
-- [ ] Users are able to click a restaurant card on the restaurant listing's page to check the details
+- [ ] View the optimal layout for the site depending on their device's screen size
+- [ ] See hover states for all interactive elements on the page
+- [ ] Filter job listings based on the categories selected
 
 ## 5. Optional Challenges
 
 
 
 ## 6. Technical Setup
-
-Clone down this repository. You will need node and npm installed globally on your machine.
-to install dependencies:
-``` npm install ```
-to run the application: 
-``` npm start ```
-to visit the App:
-https://reditofind.netlify.app/
+ 
+1. Download the starter code, includes assets, JPG images of the design files, and a basic style guide. There’s also a README to help you get started. To download it: https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt/hub/job-listings-with-filtering-HLnhrX1mRS
+2. Set up the project with version control (e.g. Git)
+3. Read the README.md file and have a look around the project
+4. Get colors, fonts etc from the style-guide.md file
+5. Set up your project/file architecture however you want
+6. Start coding!
 
 **Technologies:**
-framework: React.js
-routing: React Router
-global state management: Context API
-data fetching: RESTful API
-styling: Styled Component
+framework: HTM.CSS.JS
+routing: 
+global state management: 
+data fetching: 
+styling: 
 
 
-Link to boilerplate repo: https://github.com/ReDI-School/react-21s-final-project-1
+Link to boilerplate repo: https://github.com/ReDI-School/js-nrw-2022-fall/blob/master/project_ideas.md
 
 ## 7. Resources / Hints & Tips
